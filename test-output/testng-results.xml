@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9030" started-at="2022-06-20T05:02:38Z" finished-at="2022-06-20T05:02:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9030" started-at="2022-06-20T05:02:38Z" finished-at="2022-06-20T05:02:47Z">
+      <class name="Test.pack.VerifyAuthor">
+        <test-method status="PASS" signature="get_Method()[pri:0, instance:Test.pack.VerifyAuthor@5a39699c]" name="get_Method" duration-ms="5502" started-at="2022-06-20T10:32:38Z" finished-at="2022-06-20T10:32:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_Method -->
+        <test-method status="PASS" signature="post_Method()[pri:0, instance:Test.pack.VerifyAuthor@5a39699c]" name="post_Method" duration-ms="1226" started-at="2022-06-20T10:32:43Z" finished-at="2022-06-20T10:32:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- post_Method -->
+        <test-method status="PASS" signature="put_Method()[pri:0, instance:Test.pack.VerifyAuthor@5a39699c]" name="put_Method" duration-ms="1089" started-at="2022-06-20T10:32:45Z" finished-at="2022-06-20T10:32:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- put_Method -->
+        <test-method status="PASS" signature="delete_Method()[pri:0, instance:Test.pack.VerifyAuthor@5a39699c]" name="delete_Method" duration-ms="1178" started-at="2022-06-20T10:32:46Z" finished-at="2022-06-20T10:32:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_Method -->
+      </class> <!-- Test.pack.VerifyAuthor -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
